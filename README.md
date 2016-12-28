@@ -5,6 +5,7 @@ This repository consist of searching and sorting techniques written in python la
 * Binary Search
 * Binary Search With Recursion
 * Linear Search
+* Searching in Sorted And Rotated Array
 
 ### Sorting Techniques  ###
 * Bubble Sort
